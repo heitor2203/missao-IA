@@ -8,10 +8,10 @@ const textoResultado = document.querySelector(".texto-resultado");
 // Array de objeto contendo as perguntas e alternativas
 const perguntas = [
     {
-        enunciado: "Qual a idade máxima que um cachorro pode chegar?",
+        enunciado: "Davi é pau mndado?",
         alternativas: [
-            "15 anos",
-            "20 anos"
+            "não",
+            "sim"
         ],
         correta: 0 // A primeira alternativa é a correta
     },
